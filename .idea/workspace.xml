@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0182e700-29a2-4e0b-9f5f-b1e802c70756" name="Default" comment="Part 3 done">
-      <change beforePath="" afterPath="$PROJECT_DIR$/accounts/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/accounts/admin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/accounts/apps.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/accounts/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/accounts/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/accounts/views.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/boards/forms.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/boards/views1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/app.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/includes/form.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/new_topic.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/new_topic1.html" />
+    <list default="true" id="0182e700-29a2-4e0b-9f5f-b1e802c70756" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/DjangoForum/settings.py" afterPath="$PROJECT_DIR$/DjangoForum/settings.py" />
-      <change beforePath="$PROJECT_DIR$/DjangoForum/urls.py" afterPath="$PROJECT_DIR$/DjangoForum/urls.py" />
-      <change beforePath="$PROJECT_DIR$/boards/tests.py" afterPath="$PROJECT_DIR$/boards/tests.py" />
-      <change beforePath="$PROJECT_DIR$/boards/views.py" afterPath="$PROJECT_DIR$/boards/views.py" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
-      <change beforePath="$PROJECT_DIR$/templates/topics.html" afterPath="$PROJECT_DIR$/templates/topics.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -115,18 +95,6 @@
                 <state relative-caret-position="34">
                   <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/boards/forms.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-                  <folding>
-                    <element signature="e#0#34#0" expanded="true" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -331,6 +299,14 @@
       <option name="presentableId" value="Default" />
       <updated>1524802437293</updated>
     </task>
+    <task id="LOCAL-00001" summary="Part 3 done">
+      <created>1529912457352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529912457352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -383,7 +359,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.50516796" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.49483204" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -677,6 +653,14 @@
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
